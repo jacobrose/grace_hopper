@@ -1,11 +1,13 @@
 # COBOL Code for use in Projects Honoring Grace Hopper. #
     
-I learned COBOL over a weekend in honor of Rear Admiral Grace Hopper,
-computer pioneer and inventor of the compiler. The name of the program,
-ACTUAL-BUG-INSTANCES, refers to the joke she made at Harvard, when a
-moth caught in a relay caused a computer failure and she taped it into
-her log book with the note. She taped the unfortunate insect into the
-logbook with the note, "First actual case of bug being found."
+In honor of Rear Admiral Grace Hopper, computer pioneer and inventor
+of the compiler, I learned enough COBOL over a weekend to write a simple
+program that does some rudimentary statistics.
+
+The name of the program, ACTUAL-BUG-INSTANCES, refers to the famous
+joke she made at Harvard, when a moth caught in a relay caused a computer
+failure and she taped the unfortunate insect into her logbook with the
+note, "First actual case of bug being found."
 
 You can see a picture of the log entry (and the moth!) here:
 http://www.computerhistory.org/tdih/September/9/
