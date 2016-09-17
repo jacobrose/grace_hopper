@@ -16,7 +16,9 @@ I'm releasing this freely so that anyone who wants to include some COBOL
 code in a design honoring Admiral Hopper can draw on it.
 
 Jacob Rose
+
 Brooklyn, New York
+
 September 17, 2016
 
 # Running the Code #
