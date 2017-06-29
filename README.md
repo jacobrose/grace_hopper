@@ -43,11 +43,11 @@ And the "Berkeley DB" library from Oracle (formerly from Sleepycat software):
 >
 > (Click "Download," then click the latest version, set up an Oracle account, log in, and your download will begin)
 
-##If you're on a Mac, you'll need to install XCode##
+## If you're on a Mac, you'll need to install XCode ##
 
 XCode is Apple's software development suite. It includes all the tools you'll need to build software on your computer. Get it from the App Store. It will take a long time to download and install, but it's the first tool you'll need if you are interested in writing software for OS X or iOS.
 
-##Open a terminal and build the Gmp math library##
+## Open a terminal and build the Gmp math library ##
 
 Lines that start with "$" are commands you'll type.
 
@@ -73,7 +73,7 @@ NOTE: Don't type the "$"! Everything after the "#" is just my commentary on each
 
 Enter your password, and "make" will complete the installation of Gmp.
 
-##Now build the Berkeley DB library##
+## Now build the Berkeley DB library ##
 
 The steps are nearly identical, so I'm providing them with less commentary
 
@@ -95,7 +95,7 @@ The steps are nearly identical, so I'm providing them with less commentary
 >
 > Password:
 
-##Now build the GNU Cobol compiler##
+## Now build the GNU Cobol compiler ##
 
 By now you're a pro at this! Very similar steps to Gmp.
 
