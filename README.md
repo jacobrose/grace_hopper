@@ -21,7 +21,11 @@ Brooklyn, New York
 
 September 17, 2016
 
-# Running the Code #
+# If you just want to look at the COBOL code #
+
+Here it is: https://raw.githubusercontent.com/jacobrose/grace_hopper/master/bugs.cobol
+
+# Running the code #
 
 You'll need to get a COBOL compiler. If you're on a Unix-style system,
 for instance a Mac running OS X or any Linux PC, you can use GNU COBOL,
